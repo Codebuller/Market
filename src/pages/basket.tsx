@@ -1,8 +1,9 @@
 import Navbar from '@/components/navbar/Navbar'
 
-export default function MainPage() {
+export default function BasketPage() {
   return <> 
   <Navbar/>
-  <div>Главная</div>
+  <div>Busket</div>
   </>
 }
+    

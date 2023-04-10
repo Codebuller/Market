@@ -1,0 +1,17 @@
+.sidr{
+    height: 100vh;
+    background-color: #001529;
+    margin-top: 64px;
+}
+.dopSorting{
+    padding-top: 1.5vw;
+    padding-bottom: 1.5vw;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
+    background-color: #57758e;
+    border-radius: 1vw;
+}
+.slider{
+margin-left: 2.5vw;
+margin-right: 2.5vw;
+}
